@@ -1,0 +1,5 @@
+print("-" * 15 + "FICHA ALUNO" + "-" * 15)
+print("Nome: Matheus Tesser", sep=(" | "))
+print("Escola: Etec darcy pereira de moraes", sep=(" | "))
+print("Turma: 2°DS", sep=(" | "))
+print("-" * 30)
